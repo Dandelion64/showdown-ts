@@ -4,7 +4,7 @@
   "description": "A showdown poker game",
   "author": "dandelion",
   "license": "ISC",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
     "start": "node ./app.js",
     "dev": "rollup -c -w",

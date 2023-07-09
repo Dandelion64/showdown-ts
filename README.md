@@ -29,6 +29,12 @@
 npm install
 ```
 
+之後必須打包一次：
+
+``` bash
+npm run build
+```
+
 接著在控制台 (console) 中運行以下指令即可：
 
 ``` bash
